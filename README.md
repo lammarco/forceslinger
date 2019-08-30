@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to ForceSlinger Lite!
 
-You can use the [editor on GitHub](https://github.com/marcolam2001/forceslinger-lite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A mouse is strongly recommended to play this game.
+Controls: (Will be possible to configure in a future version)
+-a,d - left/right moving (applies a linear force as well as torque)
+-w - change a/d to only apply a stronger torque
+-space/s - jump up/down
+-left_shift - force player's to not rotate as much (a brake)
+-mouse left/right click - fires 1/3 particles (when having the particle launcher)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcolam2001/forceslinger-lite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For the full version: go to [the itch.io page](https://lammarco.itch.io/forceslinger).
