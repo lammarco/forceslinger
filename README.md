@@ -14,4 +14,4 @@ Controls: (Will be possible to configure in a future version)
 
 -mouse left/right click - fires 1/3 particles (when having the particle launcher)
 
-For the full version: go to [the itch.io page](https://lammarco.itch.io/forceslinger).
+For the full downloadable version: go to [the itch.io page](https://lammarco.itch.io/forceslinger).
