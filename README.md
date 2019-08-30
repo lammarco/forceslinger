@@ -1,8 +1,8 @@
-## Welcome to ForceSlinger Lite!
+## Welcome to ForceSlinger!
 
 A mouse is strongly recommended to play this game.
 
-Controls: (Will be possible to configure in a future version)
+Controls: (Currently configurable in the downloadable, but the web version will be configurable in a future version)
 
 -a,d - left/right moving (applies a linear force as well as torque)
 
