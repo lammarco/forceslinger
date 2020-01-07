@@ -6,11 +6,11 @@ Controls: (Currently configurable in the downloadable, but the web version will 
 
 -a,d - left/right moving (applies a linear force as well as torque)
 
--w - change a/d to only apply a stronger torque
+-w/s - jump up/down; when in space, same movement as a/d
 
--space/s - jump up/down
+-space - change a/d to only apply a stronger torque
 
--left_shift - force player's to not rotate as much (a brake)
+-left_shift - force player's to not rotate as much (a brake); when in space, move slower
 
 -mouse left/right click - fires 1/3 particles (when having the particle launcher)
 
