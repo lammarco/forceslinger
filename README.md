@@ -1,17 +1,27 @@
 ## Welcome to ForceSlinger!
 
-A mouse is strongly recommended to play this game.
+A mouse is strongly recommended to play this game. (Keyboard-only controls below)
 
 Controls: (Currently configurable in the downloadable, but the web version will be configurable in a future version)
 
--a,d - left/right moving (applies a linear force as well as torque)
+-a/d - left/right moving (applies a linear force as well as torque)
 
--w - change a/d to only apply a stronger torque
+-w/s - jump up/down; when in space, same movement as a/d
 
--space/s - jump up/down
+-space - change a/d to only apply a stronger torque
 
--left_shift - force player's to not rotate as much (a brake)
+-left_shift - force player's to not rotate as much (a brake); when in space, move slower
 
 -mouse left/right click - fires 1/3 particles (when having the particle launcher)
+
+
+---KEYBOARD CONTROLS---
+-left/right arrow keys = a/d controls
+
+-up/down arrow keys = w/s controls
+
+-space,left_shift are the same
+
+-z,x - shoot left/right respectively, same as mouse right click, hold left_shift to act as mouse left click
 
 For the full downloadable version: go to [the itch.io page](https://lammarco.itch.io/forceslinger).

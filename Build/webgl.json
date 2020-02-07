@@ -1,7 +1,7 @@
 {
 "companyName": "Light Pixel",
 "productName": "ForceSlinger",
-"productVersion": "0.01",
+"productVersion": "0.30",
 "dataUrl": "webgl.data.unityweb",
 "wasmCodeUrl": "webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.2.1f1"
+"unityVersion": "2019.3.0f3"
 }
