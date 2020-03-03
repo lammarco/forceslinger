@@ -1,4 +1,4 @@
-Play the game on the web: lammarco.github.io/forceslinger/
+Play the game on the web: https://lammarco.github.io/forceslinger/
 ## Welcome to ForceSlinger!
 
 A mouse is strongly recommended to play this game. (Keyboard-only controls below)
