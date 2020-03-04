@@ -28,5 +28,5 @@ a {color:#20caff;}
 .instruction {font-family:Lato; margin-top: 20px; padding: 20px; background: rgba(0, 0, 0, 0.4);}
 h2{text-align:center;}
 
-.inner-column {height= 100vh; position: absolute; left: 10%; right: 10%; top: 0; bottom: 0;}
+.inner-column {height= 100vh; position: absolute; left: 10%; right: 10%; bottom: 0; top: 0;}
 
