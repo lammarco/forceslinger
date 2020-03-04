@@ -6,7 +6,7 @@ a {color:#20caff;}
 
 .webgl-content{padding: 20px;}
 
-#unitycontainer{margin:auto;}
+#unitycontainer{margin:auto; border: 10px solid rgba(0, 0, 0, 0.75);}
 
 .webgl-content .logo, .progress {
 	position: absolute; 
