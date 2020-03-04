@@ -23,9 +23,9 @@ a {color:#20caff;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
-.instruction, h2, .title {color:#ffffff; font-size: 18px;}
+.instruction, .title {color:#ffffff; font-size: 18px;}
 .title {font-weight:bold;}
-.instruction, h2 {font-family:Lato; margin-top: 20px; padding: 20px; background: rgba(0, 0, 0, 0.4);}
+.instruction, {font-family:Lato; margin-top: 20px; padding: 20px; background: rgba(0, 0, 0, 0.4);}
 h2{text-align:center;}
 
 
