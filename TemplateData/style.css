@@ -5,10 +5,9 @@ a {color:#20caff;}
 
 .webgl-content{
 	padding: 20px; 
-	text-align: center;
+	background: rgba(0, 0, 0, 0.25);
+	position: static;
 }
-
-#unitycontainer{margin:auto;}
 
 .webgl-content .logo, .progress {
 	position: absolute; 
