@@ -7,6 +7,8 @@ a {color:#20caff;}
 	padding: 20px; background: rgba(0, 0, 0, 0.4); border-left: 5px solid rgba(0, 0, 0, 0.51); border-right: 5px solid rgba(0, 0, 0, 0.51);
 }
 
+.webgl-content {margin-top:5%}
+
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
 .webgl-content .progress {height: 18px; width: 141px; margin-top: 90px;}
