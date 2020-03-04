@@ -5,7 +5,7 @@ a {color:#20caff;}
 .webgl-content {
 	position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); 
 	padding: 20px; background: rgba(0, 0, 0, 0.4); border-left: 5px solid rgba(0, 0, 0, 0.51); border-right: 5px solid rgba(0, 0, 0, 0.51);
-	}
+}
 
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
@@ -25,7 +25,8 @@ a {color:#20caff;}
 
 .instruction, .title {color:#ffffff; font-size: 18px;}
 .title {font-weight:bold;}
-.instruction {font-family:Lato; text-align:center; margin-top: 20px; padding: 20px;}
+.instruction {font-family:Lato; margin-top: 20px; padding: 20px; background: rgba(0, 0, 0, 0.4);}
+h2{text-align:center;}
 
 .inner-column {height= 100vh; position: absolute; left: 10%; right: 10%; top: 0; bottom: 0;}
 
