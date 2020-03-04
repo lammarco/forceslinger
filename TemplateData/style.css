@@ -2,10 +2,12 @@ body{background: url(../raw/bg_tile.png) repeat; }
 a {color:#20caff;}
 
 .webgl-content * {border: 0; margin: 0; padding: 0}
+.inner-column {height: 100vh; position: absolute; left: 10%; right: 10%;  bottom: 0; top: 0;}
 .webgl-content {
-	position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); 
+	position: absolute;  left: 10%; right:10%;
 	padding: 20px; background: rgba(0, 0, 0, 0.4); border-left: 5px solid rgba(0, 0, 0, 0.51); border-right: 5px solid rgba(0, 0, 0, 0.51);
 }
+
 
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
@@ -28,5 +30,4 @@ a {color:#20caff;}
 .instruction {font-family:Lato; margin-top: 20px; padding: 20px; background: rgba(0, 0, 0, 0.4);}
 h2{text-align:center;}
 
-.inner-column {height= 100vh; position: absolute; left: 10%; right: 10%; bottom: 0; top: 0;}
 
