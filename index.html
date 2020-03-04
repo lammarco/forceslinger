@@ -11,13 +11,15 @@
     <script>
       var unityInstance = UnityLoader.instantiate("unityContainer", "Build/webgl.json", {onProgress: UnityProgress});
     </script>
+    <style>
+      body{
+        background-color: #6a6a6a;
+        background-image: url(https://img.itch.zone/aW1nLzIzMDI3MTEucG5n/original/6F%2BWEA.png);
+        background-repeat: repeat;
+      }
+    </style>
   </head>
   <body>
-    <style>
-      background-color:#6a6a6a;
-      background-image: url(https://img.itch.zone/aW1nLzIzMDI3MTEucG5n/original/6F%2BWEA.png);
-      background-repeat: repeat;
-    </style>
     <div class="webgl-content">
       <div id="unityContainer" style="width: 800px; height: 600px"></div>
       <div class="footer">
