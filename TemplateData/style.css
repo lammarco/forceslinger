@@ -9,6 +9,8 @@ a {color:#20caff;}
 	padding: 20px;
 }
 
+#unitycontainer{margin:auto}
+
 .webgl-content .logo, .progress {
 	position: absolute; 
 	left: 50%; 
