@@ -2,13 +2,10 @@ body{background: url(../raw/bg_tile.png) repeat; }
 a {color:#20caff;}
 
 .webgl-content * {border: 0; margin: 0; padding: 0}
-.inner-column {height: 100vh; position: absolute; left:0%; right:0%; top:0; bottom: 0;}
-.webgl-content {
+.inner-column {height: 100vh; position: absolute; left:0%; right:0%; top:0; bottom: 0;
 	position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);
 	padding: 20px; background: rgba(0, 0, 0, 0.4); border-left: 5px solid rgba(0, 0, 0, 0.51); border-right: 5px solid rgba(0, 0, 0, 0.51);
 }
-
-
 
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
