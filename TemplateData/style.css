@@ -9,7 +9,7 @@ a {color:#20caff;}
 }
 
 .header {position:absolute; top:0; height:100px;}
-#unitycontainer {margin:auto;}
+#unitycontainer {top: 100px; margin:auto;}
 
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
