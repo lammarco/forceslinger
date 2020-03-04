@@ -1,15 +1,12 @@
-html{height:100%}
-body{min-height: 100vh; background: url(../raw/bg_tile.png) repeat; }
+body{background: url(../raw/bg_tile.png) repeat; }
 a {color:#20caff;}
 
 .webgl-content * {border: 0; margin: 0; padding: 0;}
 
 
-.webgl-content{
-	padding: 20px;
-}
+.webgl-content{padding: 20px;}
 
-#unitycontainer{margin:auto}
+#unitycontainer{margin:auto;}
 
 .webgl-content .logo, .progress {
 	position: absolute; 
